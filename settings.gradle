@@ -1,0 +1,2 @@
+include ':app', ':vpnLib', ':admobNativeLib'
+rootProject.name='Loyal VPN'

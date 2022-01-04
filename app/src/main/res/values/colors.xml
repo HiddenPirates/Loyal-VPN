@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#1d34da</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="rightNav">#032e63</color>
+
+    <color name="bg_color">#111</color>
+    <color name="alert_bg_color">#222</color>
+    <color name="disconnect_teal">#047D9F</color>
+    <color name="green">#068E0B</color>
+
+</resources>
