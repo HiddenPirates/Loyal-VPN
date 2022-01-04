@@ -10,12 +10,6 @@
     <string name="connection_close_confirm">Do you want to cancel current VPN connection?</string>
 
 
-<!--    <string name="admob_app_id">ca-app-pub-4973218101367420~4373968128</string>-->
-<!--    <string name="admob_native_ad">ca-app-pub-4973218101367420/2240383510</string>-->
-<!--    <string name="admob_rewarded_ad">ca-app-pub-4973218101367420/2372886082</string>-->
-<!--    <string name="admob_interstitial_ad">ca-app-pub-4973218101367420/3877539442</string>-->
-<!--    <string name="admob_app_open_ad">ca-app-pub-4973218101367420/8363579366</string>-->
-
     <!--  **************************** Below is test ad unit ****************************  -->
 
     <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
